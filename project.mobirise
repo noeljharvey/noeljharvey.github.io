@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 2,
+    "uniqCompNum": 5,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -38,7 +38,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n          <a href=\"http://www.songkick.com/artists/3394391\" class=\"songkick-widget\" data-theme=\"light\" data-track-button=\"on\" data-detect-style=\"true\" data-font-color=\"#ffffff\" data-background-color=\"transparent\">Sound of the Sirens tour dates</a>\n{JS_CODE_0}\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"4\">ARTICLE HEADER</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"5\"><p>Article header with background image and parallax effect.</p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>\n",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n          <a href=\"http://www.songkick.com/artists/3394391\" class=\"songkick-widget\" data-theme=\"light\" data-track-button=\"on\" data-detect-style=\"true\" data-font-color=\"#ffffff\" data-background-color=\"transparent\">Sound of the Sirens tour dates</a>\n{JS_CODE_0}\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"11\">ARTICLE HEADER</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"12\"><p>Article header with background image and parallax effect.</p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>\n",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -134,6 +134,42 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n             <a href=\"http://www.songkick.com/artists/3394391\" class=\"songkick-widget\" data-theme=\"light\" data-track-button=\"on\" data-detect-style=\"true\" data-font-color=\"#ffffff\" data-background-color=\"transparent\">Sound of the Sirens tour dates</a>\n{JS_CODE_0}\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"15\">ARTICLE HEADER</h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"16\"><p>Article header with background image and parallax effect.</p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://widget.songkick.com/widget.js\"></script>"
+          ],
+          "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
