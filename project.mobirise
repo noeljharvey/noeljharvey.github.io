@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "3.10.4",
     "favicon": "",
     "noImageResize": ""
@@ -148,7 +148,7 @@
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n             <a href=\"http://www.songkick.com/artists/3394391\" class=\"songkick-widget\" data-theme=\"light\" data-track-button=\"on\" data-detect-style=\"true\" data-font-color=\"#ffffff\" data-background-color=\"transparent\">Sound of the Sirens tour dates</a>\n{JS_CODE_0}\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"4\"></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"5\"><p></p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article mbr-parallax-background\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/desert.jpg); padding-top: 120px; padding-bottom: 120px;\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row\">\n             <a href=\"http://www.songkick.com/artists/3394391\" class=\"songkick-widget\" data-theme=\"light\" data-track-button=\"on\" data-detect-style=\"true\" data-font-color=\"#ffffff\" data-background-color=\"transparent\">Sound of the Sirens tour dates</a>\n{JS_CODE_0}\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"6\"></h3>\n                <div class=\"lead mbr-editable-full\" code-editable-id=\"7\"><p></p></div>\n                \n            </div>\n        </div>\n    </div>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://widget.songkick.com/widget.js\"></script>"
@@ -156,6 +156,43 @@
           "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n",
           "_customTemplate": true,
           "_anchor": "msg-box8-4"
+        },
+        {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-5",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "SOLID COLOR INTRO",
+          "text": "Full screen intro with color background.<br>Buttons, text and title are aligned to the left.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-hero mbr-section-full mbr-parallax-background mbr-section-with-arrow\" style=\"background-image: url(qrc:/web/app/themes/mobirise3/components/_images/jumbotron.jpg);\">\n\n    \n\n    <div class=\"mbr-table-cell\">\n\n        <div class=\"container\">\n            <div class=\"row\">\n                 <a href=\"http://www.songkick.com/artists/3394391\" class=\"songkick-widget\" data-theme=\"light\" data-track-button=\"on\" data-detect-style=\"true\" data-font-color=\"#ffffff\" data-background-color=\"transparent\">Sound of the Sirens tour dates</a>\n{JS_CODE_0}\n                <div class=\"mbr-section col-md-10\">\n\n                    \n                    \n                    \n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"mbr-arrow mbr-arrow-floating\" aria-hidden=\"true\"><a href=\"#next\"><i class=\"mbr-arrow-icon\"></i></a></div>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script src=\"https://widget.songkick.com/widget.js\"></script>"
+          ],
+          "_customCSS": ".mbr-section-title {\n\tcolor: #ffffff;\n}\n.mbr-section-lead {\n\tcolor: #9c9a9a;\n}\n",
+          "_customTemplate": true
         }
       ]
     }
