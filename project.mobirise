@@ -22,7 +22,9 @@
     },
     "versionFirst": "3.10.4",
     "uniqCompNum": 5,
-    "versionPublish": "3.10.4"
+    "versionPublish": "3.10.4",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -124,25 +126,24 @@
             "Theme"
           ],
           "_name": "msg-box8",
-          "_anchor": "msg-box8-4",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": 0.5
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
@@ -153,7 +154,8 @@
             "<script src=\"https://widget.songkick.com/widget.js\"></script>"
           ],
           "_customCSS": ".mbr-section-title, p {\n\tcolor: #fff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_anchor": "msg-box8-4"
         }
       ]
     }
